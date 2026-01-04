@@ -5,13 +5,13 @@ I'm an **App Developer and Tech Enthusiast** passionate about building beautiful
 ## 🚀 My Projects
 
 ### [Skimpulse](https://nikhilgreenbot.github.io/skimpulse/)
-A beautifully crafted technology news app built with Flutter. Stay up-to-date with the latest tech news and articles.
+A beautifully crafted technology articles aggregator app built with Flutter. Stay updated with the latest tech stuff.
 - 📱 Available on iOS & Android
 - ⚡ Built with Flutter & Dart
 - 🎨 Clean, modern UI with dark/light themes
 
 ### [Skyglow](https://github.com/nikhilGreenBot/skyglow)
-Another Flutter project showcasing mobile development skills.
+Another ongoing React Native project 
 
 ## 🛠️ Technologies & Tools
 
