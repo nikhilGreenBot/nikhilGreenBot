@@ -13,17 +13,10 @@ A beautifully crafted technology articles aggregator app built with Flutter. Sta
 ### [TinkerTime](https://github.com/nikhilGreenBot/TwinkleTogether)
 A magical couples app for planning theme park adventures together. Built natively with SwiftUI for iOS.
 
-<p align="center">
-  <img src="Screenshots/home.png" width="180" alt="Home">
-  <img src="Screenshots/health.png" width="180" alt="Health">
-  <img src="Screenshots/partner.png" width="180" alt="Partner">
-  <img src="Screenshots/settings-1.png" width="180" alt="Settings">
-</p>
-
 - ✨ **Trip Countdown** - Sparkle animations counting down to your next adventure
 - 💕 **Partner Sync** - Share trips and compete on daily steps via iCloud/CloudKit
 - 🏃 **Health Tracking** - Apple HealthKit integration for step goals
-- 🎨 **Beautiful Themes** - Multiple customizable color themes (Tinker Bell, Cinderella, Aurora, Moana)
+- 🎨 **Beautiful Themes** - Multiple customizable color themes
 - 📱 **Home Screen Widgets** - Beautiful countdown & step tracking widgets
 
 <!-- ### [Skyglow](https://github.com/nikhilGreenBot/skyglow)
