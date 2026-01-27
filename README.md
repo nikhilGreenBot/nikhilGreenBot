@@ -10,14 +10,14 @@ A beautifully crafted technology articles aggregator app built with Flutter. Sta
 - ⚡ Built with Flutter & Dart
 - 🎨 Clean, modern UI with dark/light themes
 
-### [TinkerTime](https://github.com/nikhilGreenBot/TinkerTime)
+### [TinkerTime](https://github.com/nikhilGreenBot/TwinkleTogether)
 A magical couples app for planning theme park adventures together. Built natively with SwiftUI for iOS.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TinkerTime/main/Screenshots/home.png" width="180" alt="Home">
-  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TinkerTime/main/Screenshots/health.png" width="180" alt="Health">
-  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TinkerTime/main/Screenshots/partner.png" width="180" alt="Partner">
-  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TinkerTime/main/Screenshots/settings-1.png" width="180" alt="Settings">
+  <img src="Screenshots/home.png" width="180" alt="Home">
+  <img src="Screenshots/health.png" width="180" alt="Health">
+  <img src="Screenshots/partner.png" width="180" alt="Partner">
+  <img src="Screenshots/settings-1.png" width="180" alt="Settings">
 </p>
 
 - ✨ **Trip Countdown** - Sparkle animations counting down to your next adventure
