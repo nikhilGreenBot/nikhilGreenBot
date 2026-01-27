@@ -10,11 +10,29 @@ A beautifully crafted technology articles aggregator app built with Flutter. Sta
 - ⚡ Built with Flutter & Dart
 - 🎨 Clean, modern UI with dark/light themes
 
-### [Skyglow](https://github.com/nikhilGreenBot/skyglow)
-Another ongoing React Native project 
+### [TinkerTime (TwinkleTogether)](https://github.com/nikhilGreenBot/TwinkleTogether)
+A magical couples app for planning theme park adventures together. Built natively with SwiftUI for iOS.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TwinkleTogether/main/Screenshots/home.png" width="180" alt="Home">
+  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TwinkleTogether/main/Screenshots/health.png" width="180" alt="Health">
+  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TwinkleTogether/main/Screenshots/partner.png" width="180" alt="Partner">
+  <img src="https://raw.githubusercontent.com/nikhilGreenBot/TwinkleTogether/main/Screenshots/settings-1.png" width="180" alt="Settings">
+</p>
+
+- ✨ **Trip Countdown** - Sparkle animations counting down to your next adventure
+- 💕 **Partner Sync** - Share trips and compete on daily steps via iCloud/CloudKit
+- 🏃 **Health Tracking** - Apple HealthKit integration for step goals
+- 🎨 **Beautiful Themes** - Multiple customizable color themes (Tinker Bell, Cinderella, Aurora, Moana)
+- 📱 **Home Screen Widgets** - Beautiful countdown & step tracking widgets
+
+<!-- ### [Skyglow](https://github.com/nikhilGreenBot/skyglow)
+Another ongoing React Native project -->
 
 ## 🛠️ Technologies & Tools
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
