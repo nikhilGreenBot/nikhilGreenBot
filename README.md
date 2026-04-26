@@ -19,8 +19,14 @@ A magical couples app for planning theme park adventures together. Built nativel
 - 🎨 **Beautiful Themes** - Multiple customizable color themes
 - 📱 **Home Screen Widgets** - Beautiful countdown & step tracking widgets
 
-<!-- ### [Skyglow](https://github.com/nikhilGreenBot/skyglow)
-Another ongoing React Native project -->
+### [FitzNi Pins](https://github.com/nikhilGreenBot/FitzNiPins)
+A local-first Disney pin collector app for iOS. Photograph your pins, catalog every detail, and browse your collection — all stored privately on device. No account, no cloud, no tracking.
+
+- 📸 **Camera Capture** - Photograph pin front & back for authenticity records
+- 🗂 **Smart Catalog** - Title, series, condition grade, date acquired, tags & notes
+- 🔍 **Search & Sort** - Full-text search across your entire collection instantly
+- 🔒 **Private by Design** - Encrypted local storage, nothing leaves your device
+- ⚙️ **Settings & Onboarding** - Polished UX with Nunito typography and dark theme
 
 ## 🛠️ Technologies & Tools
 
