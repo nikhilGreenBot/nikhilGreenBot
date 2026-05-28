@@ -16,16 +16,6 @@ A production-quality Android app for Disney trading pin collectors. Named after 
 - 🔍 **Pin Identification** — Camera capture → confidence-scored AI match candidates
 - ✅ **JUnit5 + Turbine + MockK** — ViewModel Flow tests, sealed error path coverage
 
-### 🔍 [FitzNi Pins — iOS](https://github.com/nikhilGreenBot/FitzNiPins)
-
-A local-first Disney pin collector app for iOS. Photograph your pins, catalog every detail, and browse your collection — all stored privately on device. No account, no cloud, no tracking.
-
-- 📸 **Camera Capture** — Photograph pin front & back for authenticity records
-- 🗂️ **Smart Catalog** — Title, series, condition grade, date acquired, tags & notes
-- 🔍 **Search & Sort** — Full-text search across your entire collection instantly
-- 🔒 **Private by Design** — Encrypted local storage, nothing leaves your device
-- ⚙️ **Polished UX** — Nunito typography, dark theme, smooth onboarding
-
 ### 🎢 [TinkerTime](https://github.com/nikhilGreenBot/TwinkleTogether)
 
 A magical couples app for planning theme park adventures together. Built natively with SwiftUI for iOS.
