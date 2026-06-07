@@ -6,7 +6,7 @@ I'm an **App Developer and Tech Enthusiast** passionate about building beautiful
 
 ### ✨ [FitzNi Pins — Android](https://github.com/nikhilGreenBot/fitzni-pins-android)
 
-A production-quality Android app for Disney trading pin collectors. Named after my wife Katie Fitzsimmons + Nikhil — built with the full modern Android stack.
+A production quality Android app for Disney trading pin collectors.
 
 - 🏗️ **Clean Architecture** — Domain / Data / Presentation / UI layers with strict separation
 - 🎨 **Jetpack Compose + Material 3** — Disney-inspired theme, dynamic color, animated splash
